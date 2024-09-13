@@ -52,8 +52,8 @@ Place your CSV file with item details and shelf numbers in the specified locatio
 ## Screenshots
 Here are some screenshots of the application:
 
-![Screenshot 1](Screenshot1)
-![Screenshot 2](Screenshot2)
+![Screenshot 1](screenshot1.jpg)
+![Screenshot 2](Screenshot2.jpg)
 
 ## Demonstration
 View the demonstration video to see the chatbot in action:
