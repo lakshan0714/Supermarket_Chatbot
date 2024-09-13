@@ -25,8 +25,57 @@ This project demonstrates a chatbot system developed using the ChatterBot librar
 
 #### Backend Setup
 
-1. **Navigate to the Backend Directory**
+1. **Navigate to the Backend Directory Run FastApi**
 
    ```bash
    cd backend
+   uvicorn main:app --reload
+
+#### Frontend Setup
+
+1.**Navigate to the frontend directory :
+   ```bash
+   cd Frontend/chat
+   npm start
+  ```
+
+
+
+
+## Update CSV File
+Place your CSV file with item details and shelf numbers in the specified location as described in the backend code.
+
+## Usage
+1. Open the React Native app on your device or emulator.
+2. Interact with the chatbot to retrieve item and shelf information or to ask general questions.
+
+## Screenshots
+Here are some screenshots of the application:
+
+![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 2](path/to/screenshot2.png)
+
+## Demonstration
+View the demonstration video to see the chatbot in action:
+
+[Watch the demonstration video](path/to/demonstration_video.mp4)
+
+## GIFs
+Check out this GIF to see the chatbot's interaction:
+
+![Chatbot Interaction](path/to/interaction.gif)
+
+## Contributing
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](path/to/LICENSE) file for details.
+
+## Acknowledgements
+- **ChatterBot**: [ChatterBot Documentation](https://chatterbot.readthedocs.io)
+- **React Native**: [React Native Documentation](https://reactnative.dev/docs/getting-started)
+- **FastAPI**: [FastAPI Documentation](https://fastapi.tiangolo.com)
+
+
+
 
